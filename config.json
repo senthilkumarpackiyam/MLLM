@@ -1,0 +1,11 @@
+{
+  "paths": {
+    "MASTER_DIR": "/Users/senthilkumarpackiyam/Documents/MLLM_RAG",
+    "RAW_PDF_DIR": "/Users/senthilkumarpackiyam/Documents/MLLM_RAG/PDF",
+    "EXTRACT_DIR": "/Users/senthilkumarpackiyam/Documents/MLLM_RAG/extracted",
+    "CHUNK_DIR": "/Users/senthilkumarpackiyam/Documents/MLLM_RAG/chunked",
+    "EMBED_DIR": "/Users/senthilkumarpackiyam/Documents/MLLM_RAG/embedding",
+    "INDEX_DIR": "/Users/senthilkumarpackiyam/Documents/MLLM_RAG/index",
+    "MANIFEST_CSV": "/Users/senthilkumarpackiyam/Documents/MLLM_RAG/manifest.csv"
+  }
+}
