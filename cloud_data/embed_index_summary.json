@@ -1,0 +1,12 @@
+{
+  "text": {
+    "n": 19592,
+    "dim": 1536,
+    "model": "text-embedding-3-small"
+  },
+  "image": {
+    "n": 8107,
+    "dim": 512,
+    "model": "sentence-transformers/clip-ViT-B-32"
+  }
+}
